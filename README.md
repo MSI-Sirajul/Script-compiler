@@ -11,8 +11,7 @@
 </p>
 
 ---
-
-## 📸 Preview
+## Ui Preview:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MSI-Sirajul/Script-compiler/main/.github/banner.jpg" alt="SHC Script Compiler" width="600"/>
@@ -20,11 +19,11 @@
 
 ---
 
-## 🚀 Quick Install
+## Quick Install
 Just run this one-liner command in Termux or Linux:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MSI-Sirajul/Script-compiler/main/install &&./install
+curl -fsSL https://raw.githubusercontent.com/MSI-Sirajul/Script-compiler/main/install && ./install
 ````
 
 It will:
@@ -37,12 +36,12 @@ It will:
 
 ## ⚙️ Features
 
-✅ Compile `.sh` scripts to `.sh.x` binaries
-✅ Adds `#!/data/data/com.termux/files/usr/bin/bash` if missing
-✅ Removes temporary `.x.c` files after compile
-✅ Beautiful colorful output
-✅ Bangla-friendly terminal messages
-✅ Works on **Termux** and other Linux environments
+* ✅ Compile `.sh` scripts to `.sh.x` binaries
+* ✅ Adds `#!/data/data/com.termux/files/usr/bin/bash` if missing
+* ✅ Removes temporary `.x.c` files after compile
+* ✅ Beautiful colorful output
+* ✅ Bangla-friendly terminal messages
+* ✅ Works on **Termux** and other Linux environments
 
 ---
 
@@ -78,8 +77,7 @@ It will:
 
 ```bash
 $ compiler
-
-🔍 Enter the script file path: myscript.sh
+🔍 Enter the script file path: your Script location.
 ✅ Script compiled successfully!
 Output: myscript
 ```
@@ -88,7 +86,7 @@ Output: myscript
 
 ---
 
-## 🏷️ Recommended GitHub Topics (for visibility)
+## Recommended GitHub Topics (for visibility)
 
 ```
 termux-tools, bash-compiler, script-obfuscator, shc, termux-automation, bash-protector, binary-converter, linux-scripting, shellscript, termux-scripts
@@ -98,8 +96,9 @@ termux-tools, bash-compiler, script-obfuscator, shc, termux-automation, bash-pro
 ## 👤 Author
 
 **MSI-Sirajul**
-📚 Computer Science Student | 🧑‍💻 Ethical Hacker
-🌐 GitHub: [github.com/MSI-Sirajul](https://github.com/MSI-Sirajul)
+* 📚 Computer Science Student
+* 🧑‍💻 Ethical Hacker
+* 🌐 Website: [MSI-Sirajul](https://md-sirajul-islam.lovable.app)
 
 ---
 
