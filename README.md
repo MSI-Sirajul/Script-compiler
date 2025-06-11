@@ -15,7 +15,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Script-compiler/main/.github/demo.gif" alt="SHC Script Compiler" width="600"/>
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Script-compiler/main/.github/banner.jpg" alt="SHC Script Compiler" width="600"/>
 </p>
 
 ---
