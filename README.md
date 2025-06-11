@@ -19,11 +19,11 @@
 
 ---
 
-## Quick Install
-Just run this one-liner command in Termux or Linux:
+## Direct Install `without gitclone`
+Just Copy and Paste The command in Termux or Linux:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MSI-Sirajul/Script-compiler/main/install && ./install
+curl -fsSL https://raw.githubusercontent.com/MSI-Sirajul/Script-compiler/main/install -o install && chmod +x install && ./install
 ````
 
 It will:
